@@ -10,7 +10,7 @@ The event received 5 stars and was a total hit!
 
 Here's a link to the PDF handout:
 
-* [DynamicProgramming.pdf](/DynamicProgramming.pdf?raw=true "PDF File")
+* [DynamicProgramming.pdf](/DynamicProgramming/blob/master/DynamicProgramming.pdf)
 
 ## Contents
 
