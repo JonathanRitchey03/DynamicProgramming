@@ -1,4 +1,4 @@
-# Dynamic Programming for Normal People.
+# Dynamic Programming for Normal People
 
 This repository is the beginning of a book I'd like to offer. It's starting as a series of meetup group events with handouts presented that cover one or two dynamic programming problems in detail.
 
@@ -7,6 +7,7 @@ This repository is the beginning of a book I'd like to offer. It's starting as a
 PDF handout links:
 
 * [DynamicProgramming.pdf](https://github.com/JonathanRitchey03/DynamicProgramming/blob/master/DynamicProgramming.pdf)
+* [DynamicProgramming2.pdf](https://github.com/JonathanRitchey03/DynamicProgramming/blob/master/DynamicProgramming2.pdf)
 
 ## Events
 
